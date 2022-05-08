@@ -2,8 +2,11 @@
 ## types of Outlier handling techniques
 ### z score technique 
 credits:bit.ly/393HjIP (what is Outlierand  more)
+
 credits:bit.ly/3KTs9Dp (normal distribution data)
+
 credits:bit.ly/3KVyDll (skwed data)
+
 
 
 this technique helps you to find if there is any Outlier or not  with the formula of ![image](https://user-images.githubusercontent.com/68773015/167293260-fcda5741-82a0-49b2-911b-10040211c7b3.png)
