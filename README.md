@@ -1,2 +1,2 @@
 # Outlier-Detection-and-Removal
-An outlier is a data point that is noticeably different from the rest. They represent errors in measurement, bad data collection, or simply show variables not considered when collecting the data.An outlier is a data point that is noticeably different from the rest. They represent errors in measurement, bad data collection, or simply show variables not considered when collecting the data.
+## typpes of Outlier handling techniques
