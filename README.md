@@ -2,6 +2,7 @@
 ## types of Outlier handling techniques
 ### z score technique 
 this technique helps you to find if there is any Outlier or not  with the formula of ![image](https://user-images.githubusercontent.com/68773015/167293260-fcda5741-82a0-49b2-911b-10040211c7b3.png)
+***this is only used if the data is in normal distribution ***
 
 after finding the Outlier the approaches are capping or Trimming
 
