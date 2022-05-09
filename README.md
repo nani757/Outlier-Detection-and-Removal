@@ -13,6 +13,13 @@ this technique helps you to find if there is any Outlier or not  with the formul
 
 ***this is only used if the data is in normal distribution ***
 
+### iqr 
+The interquartile range is calculated in much the same way as the range. All you do to find it is subtract the first quartile from the third quartile: IQR = Q3 – Q1. 
+
+
+***this is only used if the data is in skewed data distribution ***
+![skewed distribution](https://user-images.githubusercontent.com/68773015/167361842-fc6be400-501c-44ee-9568-08e72deba909.png)
+
 after finding the Outlier the approaches are capping or Trimming
 
 ### Capping
