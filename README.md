@@ -18,7 +18,9 @@ The interquartile range is calculated in much the same way as the range. All you
 
 
 ***this is only used if the data is in skewed data distribution ***
+
 ![skewed distribution](https://user-images.githubusercontent.com/68773015/167361842-fc6be400-501c-44ee-9568-08e72deba909.png)
+
 
 after finding the Outlier the approaches are capping or Trimming
 
